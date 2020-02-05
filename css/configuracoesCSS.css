@@ -21,7 +21,7 @@
 
 a, a:active, a:hover {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .barra-creditos {
@@ -31,4 +31,51 @@ a, a:active, a:hover {
     margin-top: -10px;
     margin-bottom: -200px;
     background-color: #d2d2d2;
+}
+
+.presentation-card {
+    height: 410px;
+    width: 100%;
+    background-color: #343a40;
+    text-align: center;
+}
+
+.presentation-card p {
+    color: lightgray;
+    font-family: 'Lato', sans-serif;    
+}
+
+.fonte-grande {
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.fonte-grande-bold {
+    font-size: 50px;
+    margin-bottom: 0px;
+    text-decoration: bold;
+}
+
+.fonte-media {
+    font-size: 40px;
+}
+
+.fonte-pequena {
+    font-size: 30px;
+}
+
+fonte-pequena-pequena {
+    font-size: 20px;
+}
+
+.page-1 {
+    height: 750px;
+}
+
+.letra-branca {
+    color: white;
+}
+
+.border {
+    border-radius: 10px;
 }
